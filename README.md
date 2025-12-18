@@ -1,1 +1,1 @@
-# migges
+# migges is simple method
